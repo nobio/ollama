@@ -1,0 +1,58 @@
+ [
+  {
+    "typ": "Ärztliche Leistung",
+    "behandlungszeitraum": "16.12.24 - 10.01.25",
+    "rechnungsbetrag_eur": 425.34,
+    "erstattungssatz_prozent": null,
+    "erstattungsbetrag_eur": null,
+    "hinweis_nr": null
+  },
+  {
+    "typ": "Ärztliche Leistung",
+    "behandlungszeitraum": "16.12.24 - 10.01.25",
+    "rechnungsbetrag_eur": 425.34,
+    "erstattungssatz_prozent": 100,
+    "erstattungsbetrag_eur": 425.34,
+    "hinweis_nr": null
+  },
+  {
+    "typ": "Ärztliche Leistung",
+    "behandlungszeitraum": "01.01.25",
+    "rechnungsbetrag_eur": 53.77,
+    "erstattungssatz_prozent": null,
+    "erstattungsbetrag_eur": null,
+    "hinweis_nr": null
+  },
+  {
+    "typ": "Ärztliche Leistung",
+    "behandlungszeitraum": "01.01.25",
+    "rechnungsbetrag_eur": 53.77,
+    "erstattungssatz_prozent": 100,
+    "erstattungsbetrag_eur": 53.77,
+    "hinweis_nr": null
+  },
+  {
+    "typ": "Arzneimittel",
+    "behandlungszeitraum": "03.03.25",
+    "rechnungsbetrag_eur": 13.21,
+    "erstattungssatz_prozent": null,
+    "erstattungsbetrag_eur": null,
+    "hinweis_nr": null
+  },
+  {
+    "typ": "Arzneimittel",
+    "behandlungszeitraum": "03.03.25",
+    "rechnungsbetrag_eur": 13.21,
+    "erstattungssatz_prozent": 100,
+    "erstattungsbetrag_eur": 13.21,
+    "hinweis_nr": null
+  },
+  {
+    "typ": "Selbstbehalt",
+    "behandlungszeitraum": null,
+    "rechnungsbetrag_eur": -83.69,
+    "erstattungssatz_prozent": null,
+    "erstattungsbetrag_eur": null,
+    "hinweis_nr": 1
+  }
+]
